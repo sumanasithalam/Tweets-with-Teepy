@@ -1,4 +1,4 @@
-# Tweets-with-Tweepy
+# Tweets with Tweepy
 Getting tweets from a user in csv format & more using the [Tweepy](https://docs.tweepy.org/en/stable/) library in Python
 * Made this to help with my roommate's marketing assignment <3
 
